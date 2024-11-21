@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProEventos.API", "src\back\ProEventos.API\ProEventos.API.csproj", "{23A50A82-A83F-4FFB-A872-A435FAB52A4E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProEventos.API", "src\ProEventos.API\ProEventos.API.csproj", "{5A6B01DF-51C2-4268-A4B3-62F59F689F67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{23A50A82-A83F-4FFB-A872-A435FAB52A4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{23A50A82-A83F-4FFB-A872-A435FAB52A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{23A50A82-A83F-4FFB-A872-A435FAB52A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{23A50A82-A83F-4FFB-A872-A435FAB52A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A6B01DF-51C2-4268-A4B3-62F59F689F67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A6B01DF-51C2-4268-A4B3-62F59F689F67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A6B01DF-51C2-4268-A4B3-62F59F689F67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A6B01DF-51C2-4268-A4B3-62F59F689F67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
